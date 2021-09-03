@@ -1,0 +1,30 @@
+
+ include is identifier
+ < is Relational operator Less than
+ stdio is identifier
+ h is identifier
+ > is Relational operator Greater than 
+ int is keyword
+ main is identifier 
+ int is keyword
+ x is identifier
+ y is identifier
+ x is identifier
+ > is Relational operator Greater than
+ y is identifier
+ printf is identifier
+ output is identifier 
+ /* is comment start 
+ */ is comment end
+ symbol table items: 
+
+ include
+ stdio
+ h
+ main
+ x
+ y
+ printf
+ output
+ hello
+
