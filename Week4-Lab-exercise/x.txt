@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main{
 int x, y;
 x>y;
 printf("output");
 }
+=======
+#include<stdio.h>
+int main{
+int x, y;
+x>y;
+printf("output");
+}
+>>>>>>> 5f468bca96f7019ecc198b07a07779e13f0e0a68
 /*hello*/
